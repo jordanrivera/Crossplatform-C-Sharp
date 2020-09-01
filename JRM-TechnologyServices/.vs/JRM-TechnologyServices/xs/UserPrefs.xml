@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AF946AD0-B1D8-4DF4-A5E2-1F4C5D2B5EC8}|Default">
+  <MonoDevelop.Ide.ItemProperties.JRM-TechnologyServices.Droid FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JRM-TechnologyServices/App.cs">
+    <Files>
+      <File FileName="JRM-TechnologyServices/App.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JRM-TechnologyServices" expanded="True" selected="True">
+            <Node name="JRM-TechnologyServices" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JRM-TechnologyServices.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B03F32DE-DE10-44FF-B5CA-526E120BB772">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.JRM-TechnologyServices.iOS>
+  <MonoDevelop.Ide.ItemProperties.JRM-TechnologyServices FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
